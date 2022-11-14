@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![DSC_37137](https://user-images.githubusercontent.com/117056314/201556193-62903175-2431-4819-ae3a-020fd412b3ba.jpg)
+
 
 💻 HELLO I’m Yasitha Sanjula .
 
