@@ -3,7 +3,7 @@
 
 💻 HELLO I’m Yasitha Sanjula .
 
-🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++ c# .
+🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++ C# MYSQL .
 
 🤔 I’m looking for New programming methord .
 
